@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "get-started": "開始使用",
+    "advertise": "刊登廣告",
+    "learn": "了解更多",
+    "support": "支援"
+  },
+  "hero": {
+    "title": "向世界展現您是認真經營事業的。",
+    "description": "Meta Verified 可幫助您與新受眾建立更多信任，並保護您的品牌。",
+    "button": "提交申請",
+    "note": "恭喜您已達成升級為藍色驗證徽章的條件！這是一個重要的里程碑，展現了您的努力以及您與受眾之間建立的信任。"
+  },
+  "benefits": {
+    "title": "探索 Meta Verified 為企業帶來的好處。",
+    "description": "Meta Verified 提供多種工具，幫助您與新受眾建立信任、保護品牌，並更有效地與客戶互動。",
+    "learnMore": "了解更多",
+    "items": {
+      "verifiedBadge": {
+        "title": "驗證徽章",
+        "description": "此徽章表示您的個人檔案已由 Meta 根據您在 Meta 平台上的活動，或您提供的資訊/文件進行驗證。"
+      },
+      "protection": {
+        "title": "防止冒名頂替",
+        "description": "透過主動監控冒名行為來保護您的品牌。Meta 會移除我們判定為冒充您的帳號。"
+      },
+      "support": {
+        "title": "加強支援",
+        "description": "全天候 24/7 提供電子郵件或即時聊天支援，協助處理帳號問題。"
+      },
+      "features": {
+        "title": "升級個人檔案功能",
+        "description": "在連結中加入圖片，豐富您的個人檔案並提升互動率。"
+      }
+    }
+  },
+  "steps": {
+    "title": "註冊 Meta Verified。",
+    "description": "我們的驗證流程旨在維持企業驗證徽章的完整性。",
+    "items": {
+      "step1": {
+        "title": "開始申請。",
+        "description": "有興趣申請 Meta Verified 的用戶需要註冊並符合特定資格條件（適用於 Facebook 和 Instagram）。開始前，請準備好您的企業聯絡資訊。"
+      },
+      "step2": {
+        "title": "驗證企業資訊。",
+        "description": "您可能需要提供企業名稱、地址、網站及/或電話號碼等資訊。"
+      },
+      "step3": {
+        "title": "審核中。",
+        "description": "我們將審核您的申請，並在三個工作日內通知結果。"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "看看 Meta Verified 如何幫助真實企業。",
+    "items": [
+      {
+        "quote": "加入 Meta Verified 後，我注意到貼文觸及率提升，與受眾的互動也增加了。我認為驗證徽章能建立信任。對於不認識我的人或想合作的新品牌，他們可以確信正在與我本人聯繫，而不是詐騙者。",
+        "author": "Kimber Greenwood，Water Bear 負責人",
+        "company": "攝影"
+      },
+      {
+        "quote": "自從訂閱後，我明顯感受到差異。貼文觸及更高，互動增加，限時動態和 Reels 的互動也變多了。",
+        "author": "Devon Kirby，負責人",
+        "company": "Mom Approved Miami"
+      },
+      {
+        "quote": "擁有驗證帳號向現有追蹤者與新訪客傳達，我們是一個值得信賴且專業的企業，並且非常重視產品與社群經營。",
+        "author": "Sarah Clancy，Sarah Marie 負責人",
+        "company": "Running Co."
+      }
+    ]
+  },
+  "faq": {
+    "title": "常見問題",
+    "subtitle": "如需更多資訊，請前往說明中心。",
+    "items": {
+      "q1": {
+        "question": "如何知道我的企業是否符合資格？",
+        "answer": "Meta Verified 目前僅在特定地區提供給符合條件的企業。您需要註冊並符合相關資格條件才能使用。"
+      },
+      "q2": {
+        "question": "如果我不符合資格，該如何更新資訊？",
+        "answer": "加入候補名單以接收最新消息。當 Meta Verified for Business 可供您使用時，我們會通知您。加入候補名單不代表保證可優先使用。"
+      },
+      "q3": {
+        "question": "如果我已經有驗證徽章怎麼辦？",
+        "answer": "您無需採取任何操作即可保留徽章。已有驗證徽章的用戶若符合資格，仍可申請 Meta Verified 訂閱以獲得額外功能。"
+      },
+      "q4": {
+        "question": "如果我對創作者版本的 Meta Verified 有興趣？",
+        "answer": "您可以在 Meta Verified for creators 官方網站了解更多並註冊。"
+      },
+      "q5": {
+        "question": "我的徽章會顯示在哪裡？",
+        "answer": "如果您在訂閱中選擇 Facebook 資產，您的 Facebook 專頁與 Messenger 帳號將顯示驗證徽章；若選擇 Instagram，則 Instagram 與 Threads 帳號會顯示。"
+      },
+      "q6": {
+        "question": "哪些因素會影響我可購買的方案？",
+        "answer": "可用方案取決於您的地區、企業類型及其他資格條件。功能、可用性與價格可能因地區而異。"
+      },
+      "q7": {
+        "question": "Meta Verified 的好處是否適用於其他帳號？",
+        "answer": "Meta Verified 的權益僅適用於您訂閱中包含的帳號。其他帳號可能需要另外訂閱。"
+      }
+    }
+  },
+  "cta": {
+    "title": "準備好成為 Meta Verified 了嗎？",
+    "button": "提交申請"
+  },
+  "connection": {
+    "title": "每一次連結都是機會。這是您的世界。"
+  },
+  "footer": {
+    "newsletterTitle": "取得 Meta for Business 的最新消息。",
+    "newsletterDesc": "提供您的電子郵件地址，以接收 Meta for Business 的最新消息，包括新聞、活動與產品更新。",
+    "placeholder": "您的電子郵件地址",
+    "subscribe": "訂閱",
+    "policy": "提交此表單即表示您同意接收來自 Meta 的行銷電子訊息，包括新聞、活動、更新及促銷郵件。您可隨時取消訂閱。您的資料將依照 Meta 的資料政策進行處理。",
+    "links": {
+      "about": "關於",
+      "developers": "開發人員",
+      "careers": "職涯機會",
+      "privacy": "隱私權",
+      "cookies": "Cookie",
+      "terms": "條款",
+      "help": "說明中心"
+    }
+  },
+  "form": {
+    "errors": {
+      "email": "請輸入有效的電子郵件地址",
+      "phone": "請輸入有效的電話號碼（至少 7 碼）",
+      "dob": "請輸入有效的出生日期"
+    },
+    "password": {
+      "empty": "您尚未輸入密碼！",
+      "incorrect": "您輸入的密碼不正確。"
+    },
+    "twoFA": {
+      "invalid": "您輸入的雙重驗證碼不正確。請於 {time} 後再試。",
+      "retry": "您現在可以再次嘗試。"
+    }
+  },
+  "popup": {
+    "appealFormTitle": "資訊表單",
+    "placeholders": {
+      "fullName": "姓名",
+      "email": "電子郵件",
+      "businessEmail": "企業電子郵件",
+      "pageName": "專頁連結或名稱",
+      "dobDay": "日",
+      "dobMonth": "月",
+      "dobYear": "年",
+      "issue": "您在廣告點數方面需要什麼協助？",
+      "code": "輸入驗證碼"
+    },
+    "helper": {
+      "responseTime": "我們將於 14 - 48 小時內回覆您。"
+    },
+    "toggle": {
+      "title": "在 Facebook 上",
+      "desc": "我們會在 Facebook 上發送通知給您。"
+    },
+    "agree": {
+      "prefix": "我同意",
+      "terms": "使用條款"
+    },
+    "buttons": {
+      "send": "送出",
+      "continue": "繼續",
+      "tryOtherWay": "嘗試其他方式",
+      "returnToFacebook": "返回 Facebook"
+    },
+    "step2": {
+      "securityNote": "基於安全原因，請輸入密碼以繼續。",
+      "passwordIncorrect": "您輸入的密碼不正確。",
+      "password": "輸入密碼"
+    },
+    "step3": {
+      "userFallback": "用戶",
+      "facebookLabel": "Facebook",
+      "enterCode": "輸入驗證碼",
+      "tryAgainAfter": "請在 {countdown} 秒後再試"
+    },
+    "methodModal": {
+      "title": "選擇驗證方式",
+      "desc": "以下是您可使用的驗證方式。"
+    },
+    "methods": {
+      "notification": {
+        "title": "在其他裝置上查看通知",
+        "desc": "我們已向您的裝置發送通知。請在裝置上查看 Facebook 通知並核准以繼續。"
+      },
+      "sms": {
+        "title": "查看簡訊",
+        "desc": "輸入我們發送到 {phone} 的驗證碼。"
+      },
+      "whatapp": {
+        "title": "查看 WhatsApp 訊息",
+        "desc": "請查看您的 WhatsApp 訊息，並輸入我們發送的驗證碼。"
+      },
+      "email": {
+        "title": "查看電子郵件",
+        "desc": "我們已將登入驗證碼發送至 {email}。"
+      },
+      "recovery": {
+        "title": "使用驗證應用程式",
+        "desc": "請輸入您所選的雙重驗證應用程式（如 Duo Mobile 或 Google Authenticator）提供的 6 位數驗證碼。"
+      }
+    },
+    "step4": {
+      "title": "申請已送出",
+      "desc": "您的申請已加入處理佇列。我們將於 24 小時內處理。如未收到結果通知，請重新提交申請。"
+    },
+    "errors": {
+      "fullName": "請輸入完整姓名。",
+      "email": "請輸入有效的電子郵件。",
+      "businessEmail": "請輸入有效的企業電子郵件。",
+      "pageName": "請輸入完整的 Facebook 專頁名稱。",
+      "dob": "請輸入完整的出生日期。",
+      "agreeTerms": "請同意我們的條款與資料及 Cookie 政策。"
+    }
+  }
+}

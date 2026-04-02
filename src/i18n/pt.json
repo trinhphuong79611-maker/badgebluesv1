@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "get-started": "Começar",
+    "advertise": "Anunciar",
+    "learn": "Saiba mais",
+    "support": "Suporte"
+  },
+  "hero": {
+    "title": "Mostre ao mundo que você leva seu negócio a sério.",
+    "description": "O Meta Verified ajuda você a gerar mais confiança com novos públicos e a proteger sua marca.",
+    "button": "Enviar solicitação",
+    "note": "Parabéns por cumprir os requisitos para atualizar sua página para o selo azul verificado! Este é um grande marco que reflete sua dedicação e a confiança que você construiu com seu público."
+  },
+  "benefits": {
+    "title": "Explore os benefícios do Meta Verified para empresas.",
+    "description": "O Meta Verified oferece ferramentas para ajudar você a gerar confiança com novos públicos, proteger sua marca e se conectar com seus clientes de forma mais eficiente.",
+    "learnMore": "Saiba mais",
+    "items": {
+      "verifiedBadge": {
+        "title": "Selo verificado",
+        "description": "O selo indica que seu perfil foi verificado pela Meta com base na sua atividade nas plataformas da Meta ou nas informações/documentos que você forneceu."
+      },
+      "protection": {
+        "title": "Proteção contra impersonação",
+        "description": "Proteja sua marca com monitoramento proativo contra impersonação. A Meta removerá contas que identificarmos como sendo falsas ou que estejam se passando por você."
+      },
+      "support": {
+        "title": "Suporte aprimorado",
+        "description": "Tenha acesso a suporte por e-mail ou chat 24 horas por dia, 7 dias por semana, para problemas com a conta."
+      },
+      "features": {
+        "title": "Recursos avançados de perfil",
+        "description": "Enriqueça seu perfil adicionando imagens aos seus links para aumentar o engajamento."
+      }
+    }
+  },
+  "steps": {
+    "title": "Cadastre-se no Meta Verified.",
+    "description": "Nosso processo de verificação foi desenvolvido para manter a integridade do selo verificado para empresas.",
+    "items": {
+      "step1": {
+        "title": "Inicie sua inscrição.",
+        "description": "Quem deseja solicitar o Meta Verified precisa se registrar e atender a certos requisitos de elegibilidade (para Facebook e Instagram). Ao começar, tenha suas informações de contato comercial em mãos."
+      },
+      "step2": {
+        "title": "Verifique os dados da empresa.",
+        "description": "Você poderá ser solicitado a informar dados como nome da empresa, endereço, site e/ou número de telefone."
+      },
+      "step3": {
+        "title": "Aguarde a análise.",
+        "description": "Analisaremos sua solicitação e enviaremos uma atualização sobre o status em até três dias úteis."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Veja como o Meta Verified ajudou empresas reais.",
+    "items": [
+      {
+        "quote": "Depois de entrar no Meta Verified, notei um aumento no alcance das minhas publicações e mais engajamento com meu público. Acho que o selo verificado gera confiança. Pessoas que não me conhecem ou novas marcas interessadas em trabalhar comigo podem ter certeza de que estão falando comigo e não com um golpista.",
+        "author": "Kimber Greenwood, proprietária da Water Bear",
+        "company": "Fotografia"
+      },
+      {
+        "quote": "Desde que assinei, percebi uma grande diferença. Minhas publicações estão alcançando mais pessoas, o engajamento aumentou e vejo mais interações em stories e reels.",
+        "author": "Devon Kirby, proprietária",
+        "company": "Mom Approved Miami"
+      },
+      {
+        "quote": "Ter uma conta verificada mostra tanto para nossos seguidores atuais quanto para novos visitantes que somos uma empresa confiável e profissional, e que levamos a sério nossos produtos e presença nas redes sociais.",
+        "author": "Sarah Clancy, proprietária da Sarah Marie",
+        "company": "Running Co."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "subtitle": "Para mais informações, visite nosso Central de Ajuda.",
+    "items": {
+      "q1": {
+        "question": "Como sei se minha empresa é elegível?",
+        "answer": "O Meta Verified está disponível para empresas que atendem a determinados requisitos de elegibilidade em regiões selecionadas. Você precisará se registrar e cumprir esses requisitos."
+      },
+      "q2": {
+        "question": "Como atualizo minhas informações se não sou elegível?",
+        "answer": "Entre na lista de espera para se manter atualizado. Avisaremos quando o Meta Verified para empresas estiver disponível para você. Entrar na lista de espera não garante acesso antecipado."
+      },
+      "q3": {
+        "question": "E se eu já tiver um selo verificado?",
+        "answer": "Nenhuma ação é necessária para manter seu selo. Usuários que já possuem o selo podem solicitar uma assinatura do Meta Verified para obter benefícios adicionais, caso atendam aos requisitos."
+      },
+      "q4": {
+        "question": "E se eu estiver interessado no Meta Verified para criadores?",
+        "answer": "Você pode saber mais e se inscrever no site do Meta Verified para criadores."
+      },
+      "q5": {
+        "question": "Onde meu selo será exibido?",
+        "answer": "Se você escolher um ativo do Facebook, sua Página do Facebook e o Messenger exibirão o selo. Se escolher Instagram, suas contas do Instagram e Threads exibirão o selo."
+      },
+      "q6": {
+        "question": "O que determina quais planos posso comprar?",
+        "answer": "Os planos disponíveis dependem da sua região, tipo de negócio e outros critérios de elegibilidade. Recursos, disponibilidade e preços podem variar por região."
+      },
+      "q7": {
+        "question": "Os benefícios do Meta Verified se aplicam a outras contas?",
+        "answer": "Os benefícios se aplicam apenas às contas incluídas na sua assinatura. Outras contas podem exigir assinaturas separadas."
+      }
+    }
+  },
+  "cta": {
+    "title": "Pronto para se tornar Meta Verified?",
+    "button": "Enviar solicitação"
+  },
+  "connection": {
+    "title": "Cada conexão é uma oportunidade. Este é o seu mundo."
+  },
+  "footer": {
+    "newsletterTitle": "Receba as últimas atualizações do Meta for Business.",
+    "newsletterDesc": "Informe seu e-mail para receber notícias, eventos e atualizações de produtos do Meta for Business.",
+    "placeholder": "Seu e-mail",
+    "subscribe": "Inscrever-se",
+    "policy": "Ao enviar este formulário, você concorda em receber comunicações de marketing da Meta, incluindo notícias, eventos, atualizações e e-mails promocionais. Você pode cancelar a qualquer momento. Seus dados serão processados de acordo com a Política de Dados da Meta.",
+    "links": {
+      "about": "Sobre",
+      "developers": "Desenvolvedores",
+      "careers": "Carreiras",
+      "privacy": "Privacidade",
+      "cookies": "Cookies",
+      "terms": "Termos",
+      "help": "Central de Ajuda"
+    }
+  },
+  "form": {
+    "errors": {
+      "email": "Por favor, insira um e-mail válido",
+      "phone": "Por favor, insira um número de telefone válido (mínimo de 7 dígitos)",
+      "dob": "Por favor, insira uma data de nascimento válida"
+    },
+    "password": {
+      "empty": "Você não inseriu sua senha!",
+      "incorrect": "A senha inserida está incorreta."
+    },
+    "twoFA": {
+      "invalid": "O código de autenticação de dois fatores está incorreto. Tente novamente após {time}.",
+      "retry": "Você pode tentar novamente agora."
+    }
+  },
+  "popup": {
+    "appealFormTitle": "Formulário de informações",
+    "placeholders": {
+      "fullName": "Nome completo",
+      "email": "E-mail",
+      "businessEmail": "E-mail empresarial",
+      "pageName": "Link ou nome da página",
+      "dobDay": "Dia",
+      "dobMonth": "Mês",
+      "dobYear": "Ano",
+      "issue": "Que tipo de suporte você precisa sobre créditos de anúncios?",
+      "code": "Digite o código"
+    },
+    "helper": {
+      "responseTime": "Responderemos dentro de 14 a 48 horas."
+    },
+    "toggle": {
+      "title": "No Facebook",
+      "desc": "Enviaremos uma notificação para você no Facebook."
+    },
+    "agree": {
+      "prefix": "Eu concordo com",
+      "terms": "Termos de uso"
+    },
+    "buttons": {
+      "send": "Enviar",
+      "continue": "Continuar",
+      "tryOtherWay": "Tentar outra forma",
+      "returnToFacebook": "Voltar ao Facebook"
+    },
+    "step2": {
+      "securityNote": "Por motivos de segurança, insira sua senha para continuar.",
+      "passwordIncorrect": "A senha inserida está incorreta.",
+      "password": "Digite sua senha"
+    },
+    "step3": {
+      "userFallback": "Usuário",
+      "facebookLabel": "Facebook",
+      "enterCode": "Digite o código",
+      "tryAgainAfter": "Tente novamente em {countdown} segundos"
+    },
+    "methodModal": {
+      "title": "Escolha uma forma de confirmar sua identidade",
+      "desc": "Estes são os métodos disponíveis para você."
+    },
+    "methods": {
+      "notification": {
+        "title": "Verifique suas notificações em outro dispositivo",
+        "desc": "Enviamos uma notificação para seu dispositivo. Verifique sua notificação no Facebook e aprove o acesso para continuar."
+      },
+      "sms": {
+        "title": "Verifique suas mensagens SMS",
+        "desc": "Digite o código enviado para {phone}."
+      },
+      "whatapp": {
+        "title": "Verifique suas mensagens do WhatsApp",
+        "desc": "Verifique suas mensagens do WhatsApp e digite o código enviado."
+      },
+      "email": {
+        "title": "Verifique seu e-mail",
+        "desc": "Enviamos um código de login para {email}."
+      },
+      "recovery": {
+        "title": "Use o aplicativo autenticador",
+        "desc": "Digite o código de verificação de 6 dígitos do seu app autenticador (como Duo Mobile ou Google Authenticator)."
+      }
+    },
+    "step4": {
+      "title": "Solicitação enviada",
+      "desc": "Sua solicitação foi adicionada à fila de processamento. Processaremos em até 24 horas. Caso não receba resposta, envie novamente."
+    },
+    "errors": {
+      "fullName": "Por favor, insira seu nome completo.",
+      "email": "Por favor, insira um e-mail válido.",
+      "businessEmail": "Por favor, insira um e-mail empresarial válido.",
+      "pageName": "Por favor, insira o nome completo da página do Facebook.",
+      "dob": "Por favor, insira sua data de nascimento completa.",
+      "agreeTerms": "Por favor, aceite os termos e políticas de dados e cookies."
+    }
+  }
+}
